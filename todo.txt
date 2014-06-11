@@ -1,0 +1,10 @@
+TODO:
+
+* Kitchen timer.
+* Probe thermometer with temperature alarm.
+* Recipe suggestions based on ingredients list.
+* Shopping list suggestions based on recipe.
+* Kitchen inventory.
+* Barcode scanner for kitchen inventory system. 
+* Recipe text-to-speech.
+* Voice controlled recipe browsing.
